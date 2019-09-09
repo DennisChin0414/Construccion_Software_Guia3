@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Pendulo
+comment1.params=longitud\ aceleracion_gravitacional
+comment1.target=Pendulo(double,\ double)
+comment2.params=
+comment2.target=double\ calcular_periodo_oscilacion()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
